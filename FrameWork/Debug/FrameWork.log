@@ -1,0 +1,32 @@
+﻿  CMng.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  DXUTsound.cpp
+  DeviceFont.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Game.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  GameManager.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  key.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Logo.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Main.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Map.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Menu.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Monster.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Mysql.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Over.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sound.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Sprite.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  Target.cpp
+c:\study\d3d\framework\framework\include.h(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  코드를 생성하고 있습니다...
