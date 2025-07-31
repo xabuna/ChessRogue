@@ -1,0 +1,4 @@
+{
+  "$schema": "https://aka.ms/vsls-schema.json",
+  "allowGuestWorkspaceAccess": true
+}
